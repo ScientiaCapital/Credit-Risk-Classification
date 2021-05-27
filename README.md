@@ -10,7 +10,7 @@ Unsurpervised Learning, this module takes a cryptocurrency portfolio proposal ba
 
 Before attempting to execute any Python code in credit_risk_resampling.ipynb, it is imperative that your development environment holds the following modules:
 
-[numpy](https://numpy.org/)- Scientific computing module
+[numpy](https://numpy.org/) - Scientific computing module
 
 [pandas](https://pandas.pydata.org/pandas-docs/stable/) - Data analysis and manipulation module
 
