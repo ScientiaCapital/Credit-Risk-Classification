@@ -1,8 +1,8 @@
-# Cryptocurrency Clustering
+# Credit Risk Classification
 
 Unsurpervised Learning, this module takes a cryptocurrency portfolio proposal based on certain factors taken into account based on the crypto data given.
 
-![Cryptocurrency_Clustering](https://github.com/ScientiaCapital/Cryptocurrency-Clustering/blob/main/Resources/Crypto_pic.jpeg)
+![Credit_Risk_Classification]()
 
 ---
 
@@ -36,9 +36,9 @@ pip install sklearn
 
 ## Examples
 
-![Example_One](https://github.com/ScientiaCapital/Cryptocurrency-Clustering/blob/main/Resources/Screen%20Shot%202021-05-21%20at%201.47.05%20PM.png)
+![Example_One]()
 
-![Example_Two](https://github.com/ScientiaCapital/Cryptocurrency-Clustering/blob/main/Resources/Screen%20Shot%202021-05-21%20at%201.47.39%20PM.png)
+![Example_Two]()
 
 
 ---
