@@ -1,8 +1,6 @@
 # Credit Risk Classification
 
-Unsurpervised Learning, this module takes a cryptocurrency portfolio proposal based on certain factors taken into account based on the crypto data given.
-
-![Credit_Risk_Classification]()
+![Credit_Risk_Classification](https://github.com/ScientiaCapital/Credit-Risk-Classification/blob/main/Images/loan1.jpeg)
 
 ---
 
